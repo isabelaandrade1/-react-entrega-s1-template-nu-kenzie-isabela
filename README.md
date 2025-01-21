@@ -2,7 +2,7 @@
 
 ### :date: **Project Period:** Module 3 - Week 2
 ### :iphone: **Mobile First =** True
-#### :computer: Access the live project: [CLICK HERE](https://nu-kenzie-plum-seven.vercel.app/) 
+#### :computer: Access the live project: [CLICK HERE](https://react-entrega-s1-template-nu-kenzie-isabela.vercel.app/)
 
 
 ## **Description** 
